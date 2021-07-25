@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "U3VTCHYEM7.com.authguidance.basicmobileapp",
+                "paths": [ "/basicmobileapp/*" ]
+            },
+            {
+                "appID": "U3VTCHYEM7.com.authguidance.mobileweb",
+                "paths": [ "/mobilewebapp/*" ]
+            }
+        ]
+    }
+}

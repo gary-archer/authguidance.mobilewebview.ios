@@ -1,0 +1,7 @@
+##
+## Control swiftlint behaviour
+##
+
+included:
+- Source
+
